@@ -1,0 +1,9 @@
+body{
+    background-color: #EDEDED; 
+}
+
+.navbar {
+    max-height: 50px; 
+	background-color: #cacccb; 
+    font-size: 15px;
+}
