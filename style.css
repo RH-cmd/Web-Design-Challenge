@@ -7,3 +7,12 @@ body{
 	background-color: #cacccb; 
     font-size: 15px;
 }
+
+.navigation .navbar-brand{
+	color: white; 
+	margin-left: 50px; 
+	padding: inherit; 
+	font-weight: bold; 
+	background-color: rgb(76, 113, 194);
+	font-family: 'Overpass', sans-serif;;
+}
