@@ -12,7 +12,7 @@ body{
 
 .navigation .navbar-brand{
 	color: white; 
-	margin-left: 50px; 
+	margin-left: 50px;
 	padding: inherit; 
 	font-weight: bold; 
 	background-color: rgb(76, 113, 194);
@@ -32,7 +32,7 @@ body{
 }
 
 /* Latitude Button Style */
-@media (max-width: 800px){
+@media (max-width: 900px){
 .navbar-expand-lg{
     background-color:rgb(76, 113, 194);
 }
@@ -46,6 +46,11 @@ body{
     padding: inherit;
 }
 
+.navbar div{
+    margin: inherit; 
+    background-color: white;  
+}
+
 button{
     margin-left: auto; 
 }
@@ -53,20 +58,29 @@ button{
 
 /* Summary Container */
 .description-content {
-	margin-top: 35px;
+	margin-top: 50px;
 	margin-bottom: 65px;
-	padding: 30px 40px 30px;
+	padding: 10px 40px 80px;
 	color: black;
-	background-color: white;
+    background-color: white;
 }
 
-.description-header, .imageNav-header {
-	padding-top: 60px; 
-	padding-left: 45px;
-	color: #38ab87;
+.description-header {
+	padding-top: 20px; 
+	padding-left: 25px;
+	color: rgb(76, 113, 194);
 	font-size: 30px;
 	font-weight: bold;
-	font-family: 'Overpass', sans-serif;;
+	font-family: 'Overpass', sans-serif;
+}
+
+.imageNav-header{
+    padding-top: 40px; 
+	padding-left: 200px;
+	color: rgb(76, 113, 194);
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Overpass', sans-serif;
 }
 
 /* Images and Visualizations */
@@ -78,8 +92,8 @@ img{
 
 .description-image {
 	float: left;
-	width: 70%;
-	height: 70%;
+	width: 60%;
+	height: 60%;
 }
 
 p{
