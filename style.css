@@ -31,7 +31,7 @@ body{
     background-color:#b1cdc9;
 }
 
-/* Navbar Button Style */
+/* Latitude Button Style */
 @media (max-width: 800px){
 .navbar-expand-lg{
     background-color:rgb(76, 113, 194);
@@ -51,3 +51,45 @@ button{
 }
 }
 
+/* Summary Container */
+.description-content {
+	margin-top: 35px;
+	margin-bottom: 65px;
+	padding: 30px 40px 30px;
+	color: black;
+	background-color: white;
+}
+
+.description-header, .imageNav-header {
+	padding-top: 60px; 
+	padding-left: 45px;
+	color: #38ab87;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Overpass', sans-serif;;
+}
+
+/* Images and Visualizations */
+
+img{
+	width: 110%;
+	height: 110%;
+}
+
+.description-image {
+	float: left;
+	width: 70%;
+	height: 70%;
+}
+
+p{
+	color: #44504d;
+	font-size: 12px;
+	font-family: 'Overpass', sans-serif;;
+}
+
+
+.active, .imageNav-photo:hover{
+    border-color:rgb(76, 113, 194);
+    border-style: solid; 
+}
