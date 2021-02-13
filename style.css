@@ -2,9 +2,11 @@ body{
     background-color: #EDEDED; 
 }
 
+/* Navbar Drop Down Links */
+
 .navbar {
     max-height: 50px; 
-	background-color: #cacccb; 
+	background-color: #cbcecc; 
     font-size: 15px;
 }
 
@@ -16,3 +18,36 @@ body{
 	background-color: rgb(76, 113, 194);
 	font-family: 'Overpass', sans-serif;;
 }
+
+.dropdown-menu .dropdown-item:hover, .dropdown-menu .dropdown-item:active{
+    background-color:#b1cdc9; 
+}
+
+.dropdown-item{
+    color: rgb(76, 113, 194); 
+}
+
+.nav-link:hover{
+    background-color:#b1cdc9;
+}
+
+/* Navbar Button Style */
+@media (max-width: 800px){
+.navbar-expand-lg{
+    background-color:rgb(76, 113, 194);
+}
+
+.navbar-brand{
+    padding: 50px; 
+}
+
+.navbar {
+    max-height: none; 
+    padding: inherit;
+}
+
+button{
+    margin-left: auto; 
+}
+}
+
