@@ -48,4 +48,47 @@ This section contains screenshots of each page that must be built, at varying sc
 ![Landing Page](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/landing_page.png?raw=true)
 
 
+#### <a id="comparisons-page"></a>Comparisons page
+
+
+
+![Comparsisons](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/comparison.png?raw=true)
+
+
+
+#### <a id="data-page"></a>Data page
+
+
+![data page](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/data_page.png?raw=true)
+
+
+
+#### <a id="visualization-pages"></a>Visualization pages
+
+
+![Max Temp](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/max_temp.png?raw=true)
+
+
+![Humidity](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/humidity.png?raw=true)
+
+
+![Cloudiness](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/cloudiness_page.png?raw=true)
+
+
+![Wind Speed](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/wind_speed.png?raw=true)
+
+
+
+#### <a id="navigation-menu"></a>Navigation menu
+
+
+![nav bar large](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/nav_bar_large.png?raw=true)
+
+![nav bar small](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/nav_bar_small.png?raw=true)
+
+
+
+
+
+
 
