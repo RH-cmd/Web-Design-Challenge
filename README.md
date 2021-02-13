@@ -4,6 +4,8 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
+![Landing Page](https://github.com/RH-cmd/Web-Design-Challenge/blob/main/Website%20Screenshots/landing_page.png?raw=true)
+
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
@@ -27,8 +29,8 @@ The website will consist of 7 pages total, including:
     * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 * A ["Data" page](#data-page) that:
   * Displays a responsive table containing the data used in the visualizations.
-    * The table must be a bootstrap table component. [Hint](https://getbootstrap.com/docs/4.3/content/tables/#responsive-tables)
-    * The data must come from exporting the `.csv` file as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called `to_html` that allows you to generate a HTML table from a pandas dataframe. See the documentation [here](https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.to_html.html)
+    * The table must be a bootstrap table component.
+    * The data must come from exporting the `.csv` file as HTML, or converting it to HTML.
 
 
 The website must, at the top of every page, have a navigation menu that:
